@@ -13,7 +13,7 @@ md-toast {
 }
 
 .chat-wrapper {
-    font-size: 7pt !important;
+    font-size: 11pt !important;
     font-family: 'Roboto', sans-serif !important;
  
 }
@@ -22,10 +22,6 @@ md-toast {
 .chat-line-mod-button-label {
     height: 16px !important;
     transform: translate3d(0px, -1.5px, 0px) !important;
-}
-
-.chat-line-username {
-    font-weight: bold !important;
 }
 
 .chat-line-wrapper.chat-line-deleted .chat-line-text{
