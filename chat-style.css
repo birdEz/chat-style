@@ -1,4 +1,4 @@
-@import url('https://fonts.googleapis.com/css?family=Roboto');
+@import url('https://fonts.googleapis.com/css?family=Tajawal');
 
 /* Remove whisper popups */
 md-toast {
@@ -14,7 +14,7 @@ md-toast {
 
 .chat-wrapper {
     font-size: 11pt !important;
-    font-family: 'Roboto', sans-serif !important;
+    font-family: 'Tajawal', sans-serif !important;
  
 }
 
