@@ -1,4 +1,4 @@
-@import url('https://fonts.googleapis.com/css?family=Tajawal');
+@import url('https://fonts.googleapis.com/css?family=Open Sans');
 
 /* Remove whisper popups */
 md-toast {
@@ -14,8 +14,16 @@ md-toast {
 
 .chat-wrapper {
     font-size: 11pt !important;
-    font-family: 'Tajawal', sans-serif !important;
+    font-family: 'Open Sans', sans-serif !important;
  
+}
+
+.chat-line-username {
+    font-weight: bold !important;
+}
+
+.emote-menu-button {
+    bottom: 0px !important;
 }
 
 /* Scale down and center inline mod icons */
