@@ -1,4 +1,4 @@
-@import url('https://fonts.googleapis.com/css?family=Open Sans');
+@import url('https://fonts.googleapis.com/css?family=IBM Plex Sans');
 
 /* Remove whisper popups */
 md-toast {
@@ -14,7 +14,7 @@ md-toast {
 
 .chat-wrapper {
     font-size: 11pt !important;
-    font-family: 'Open Sans', sans-serif !important;
+    font-family: 'IBM Plex Sans', sans-serif !important;
  
 }
 
@@ -33,5 +33,5 @@ md-toast {
 }
 
 .chat-line-wrapper.chat-line-deleted .chat-line-text{
-    text-decoration: none;
+    text-decoration: none !important;
 }
