@@ -4,6 +4,11 @@
 md-toast {
     display: none !important;
 }
+
+.loading-screen {
+ background-color: #0E0C13;
+}
+
 /**** Chat ****/
 .chat-line:nth-of-type(even) {
 	background-color: #0e0c13 !important;
@@ -14,7 +19,7 @@ md-toast {
 
 .chat-wrapper {
     font-size: 11pt !important;
-    font-family: 'IBM Plex Sans', sans-serif !important;
+    font-family: 'Arial', sans-serif !important;
  
 }
 
@@ -25,6 +30,18 @@ md-toast {
 .emote-menu-button {
     bottom: 0px !important;
 }
+
+/** decrease size of autocomplete list */
+
+.md-panel.autocomplete-panel .autocomplete-panel-content .md-button,
+.md-panel.autocomplete-panel .autocomplete-panel-content ._md-button-wrap,
+.md-panel.autocomplete-panel .autocomplete-panel-content ._md-button-wrap .md-list-item:before,
+.md-panel.autocomplete-panel .autocomplete-panel-content ._md-button-wrap .md-list-item-inner:before{
+    font-size: 9pt !important;
+    max-height: 22px !important;
+    min-height: 10px !important;
+}
+
 
 /* Scale down and center inline mod icons */
 .chat-line-mod-button-label {
