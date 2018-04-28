@@ -1,5 +1,9 @@
 @import url('https://fonts.googleapis.com/css?family=IBM Plex Sans');
 
+{
+    background-color: #0E0C13 !important;
+}
+
 /* Remove whisper popups */
 md-toast {
     display: none !important;
