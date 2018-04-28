@@ -52,3 +52,19 @@ md-toast {
 .chat-line-wrapper.chat-line-deleted .chat-line-text{
     text-decoration: none !important;
 }
+
+/**** Mod Card ****/
+.mod-card button.md-button.mod-card-mod-button {
+    margin: 0 !important;
+    padding: 6.5px !important;
+}
+
+.mod-card button.md-button.mod-card-mod-button img {
+    height: 32px !important;
+    transform: none !important;
+}
+
+.md-button {
+    padding: 0 !important;
+}
+
