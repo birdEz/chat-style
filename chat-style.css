@@ -1,7 +1,7 @@
 @import url('https://fonts.googleapis.com/css?family=IBM Plex Sans');
 
 {
-    background-color: #0E0C13 !important;
+    background-color: #1a1a1a !important;
 }
 
 /* Remove whisper popups */
@@ -15,10 +15,10 @@ md-toast {
 
 /**** Chat ****/
 .chat-line:nth-of-type(even) {
-	background-color: #0e0c13 !important;
+	background-color: #0e0e0e !important;
 }
 .chat-line:nth-of-type(odd) {
-	background-color: #1a181f !important;
+	background-color: #1a1a1a !important;
 }
 
 .chat-wrapper {
