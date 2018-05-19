@@ -71,6 +71,11 @@ a.register:link {
     text-decoration: none !important;
 }
 
+.chat-input-box {
+    border-top: solid 0px gray !important;
+    padding: 10px !important;
+}
+
 /**** Mod Card ****/
 .mod-card button.md-button.mod-card-mod-button {
     margin: 0 !important;
