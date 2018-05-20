@@ -4,10 +4,12 @@
     background-color: #1a1a1a !important;
 }
 
-/* Remove whisper popups */
-md-toast {
-    display: none !important;
+ul {-webkit-padding-start: 0px} /* Specific to Chrome */
+img.emote {max-height: 1.9em !important}
+.chat-line-wrapper img.chat-line-badge {
+    padding-right: 10px;
 }
+
 
 .loading-screen {
  background-color: #0E0C13 !important;
