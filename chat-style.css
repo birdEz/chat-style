@@ -46,7 +46,7 @@ img.emote {max-height: 1.8em !important}
     font-weight: bold;
 }
 
-a.register:link { 
+.register a:link { 
 	color:#838383; text-decoration:none; font-weight:normal !important; 
 }
 
